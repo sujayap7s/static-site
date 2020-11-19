@@ -1,0 +1,121 @@
+body{
+    font-family: Montserrat;
+}
+.mother-kiss{
+    background: #F0F0F0;
+    background-image: url('../images/Mother-kiss.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-size: contain;
+    width: 100Vw;
+    height: auto;
+    line-height: 2;
+}
+.mother-kiss h6{
+    color: #C9366F;
+    font-size: 30px;
+}
+.mother-kiss a{
+    color: #191919;
+}
+.mother-kiss a:hover{
+    color: #C9366F;
+}
+.btn-outline-danger {
+    color: #C9366F !important;
+    border-color: #C9366F !important;
+}
+.btn-outline-danger:hover {
+    color: #ffffff !important;
+    border-color: #C9366F !important;
+    background: #C9366F !important;
+}
+.btn-danger {
+    color: #ffffff !important;
+    border-color: #C9366F !important;
+    background: #C9366F !important;
+}
+.reasonToBelieve{
+    line-height: 2;
+}
+.reasonToBelieve h6{
+    color: #C9366F;
+    font-size: 30px;
+}
+.reasonToBelieve h5{
+    color: #4C4C4C;
+    font-size: 36px;
+    line-height: 2 !important;
+}
+.reasonToBelieve p{
+    color: #717171;
+}
+.reasonToBelieve img {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+}
+.featuredListing {
+    background: #F0F0F0;
+    line-height: 2;
+}
+.featuredListing h6{
+    color: #C9366F;
+    font-size: 30px;
+}
+.featuredListing p small{
+    color: #B0B0B0;
+}
+.featuredP{
+    font-size: 21px;
+    color: #717171;
+}
+.progress-bar {
+    background-color: #C9366F !important;
+}
+.ownColor{
+    color: #C9366F;
+}
+.topVolunteers{
+    line-height: 2;
+    background-image: linear-gradient(to right, #8D072F , #FF5997);
+}
+
+.topVolunteers h6{
+    color: #ffffff;
+    font-size: 30px;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
+.lineNo{
+    line-height: 0 !important;
+}
+.updateSuccess{
+    line-height: 2;
+}
+.updateSuccess h6{
+    color: #C9366F;
+    font-size: 30px;
+}
+.maatrutva{
+    background: #F0F0F0;
+    line-height: 2;
+}
+.maatrutva h6{
+    color: #C9366F;
+    font-size: 30px;
+}
+.maatrutva p{
+    color: #191919;
+    font-size: 24px;
+}
+.maaFooter{
+    background: #191919;
+}
+.maaFooter a{
+    color: #ffffff;
+}
+.maaFooter a:hover{
+    color: #ffffff;
+}
